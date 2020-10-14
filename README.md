@@ -19,3 +19,8 @@
 ##### Finite Automata
 ##### Efficient Construction of Finite Automata
 
+##### Flask is a micro framework and have build in development server and easy to  use templating, it has great templating engine called "jinja2"
+#### Imports
+pip install Falsk
+#### set flask web dev for python
+create app ,add default route, run the app, debug mode, adding more routes, HTTP methods, Serving static files, Rendering templates
