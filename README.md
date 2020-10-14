@@ -24,3 +24,17 @@
 pip install Falsk
 #### set flask web dev for python
 create app ,add default route, run the app, debug mode, adding more routes, HTTP methods, Serving static files, Rendering templates
+
+## Regex Metacharacters
+#### \d - Matches a digit from 0-9
+#### \w - matches a word character
+#### [] - character class
+#### () - capture
+#### | - Alternation
+#### ? - Matches 0 or 1 of previous
+#### * - Matches 0 or more of previous
+#### + - Matches 1 or more of previous
+#### . - Match any character except newline
+#### ^ - Match start of string
+#### $ -  Match end of string
+#### \ -  Escape character
